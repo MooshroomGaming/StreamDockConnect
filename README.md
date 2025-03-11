@@ -7,6 +7,6 @@ A Chrome extension that enables Chromebook users to connect and control the Iyut
 * Customizable actions for each button (coming soon)
 * Lightweight and easy to use
 # Installation & Usage:
-*Clone the repository
-*Load the extension as an unpacked Chrome extension
-*Connect your Stream Dock and start using it!
+* Clone the repository
+* Load the extension as an unpacked Chrome extension
+* Connect your Stream Dock and start using it!
