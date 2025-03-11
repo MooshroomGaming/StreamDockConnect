@@ -1,0 +1,17 @@
+{
+  "manifest_version": 3,
+  "name": "Iyut Stream Dock Connector",
+  "version": "1.0",
+  "description": "Chrome extension to connect and control the Iyut Stream Dock via USB.",
+  "permissions": ["usb", "storage"],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": "icon.png"
+  },
+  "host_permissions": [
+    "<all_urls>"
+  ]
+}
