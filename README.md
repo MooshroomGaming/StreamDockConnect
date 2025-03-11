@@ -10,3 +10,11 @@ A Chrome extension that enables Chromebook users to connect and control the Iyut
 * Clone the repository
 * Load the extension as an unpacked Chrome extension
 * Connect your Stream Dock and start using it!
+# License
+This project is licensed under the MIT License.
+# Contributing
+We welcome contributions from the community! If you'd like to contribute, please follow these steps:
+* Fork the repository.
+* Create a new branch for your feature or bugfix.
+* Commit your changes and push the branch to your fork.
+* Open a pull request and describe your changes.
